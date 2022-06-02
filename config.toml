@@ -1,0 +1,5 @@
+baseURL = 'https://niccoloracconta.com/'
+languageCode = 'en-us'
+defaultContentLanguage = 'it'
+title = 'niccoloracconta.com'
+theme = 'castanet'
