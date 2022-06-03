@@ -3,3 +3,11 @@ languageCode = 'en-us'
 defaultContentLanguage = 'it'
 title = 'niccoloracconta.com'
 theme = 'castanet'
+
+[params]
+  version = "0.2.X"
+  favicon = "/img/favicon.ico"
+  locale = "it-IT"
+
+[author]
+    name = "Niccolò Ciavarella"
